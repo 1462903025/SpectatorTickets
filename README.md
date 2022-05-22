@@ -3,6 +3,7 @@
 
 配置
 spectator_tickets:
+
   is_enabled: false 
   
   好像默认是false记得改成true启用
