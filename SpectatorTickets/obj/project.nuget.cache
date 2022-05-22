@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "irGIR8VFjqdLFmCST4SjL3VPb+9Yf8OlD8YK8JK4fgEPh9TM3WaGgWoZ7Q4cFgCeajvRTQiUSCIYifHp5SxbwQ==",
+  "success": true,
+  "projectFilePath": "E:\\scp pugin\\1462903025\\SpectatorTickets\\SpectatorTickets\\SpectatorTickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LOGIC\\.nuget\\packages\\exiled\\2.1.14\\exiled.2.1.14.nupkg.sha512",
+    "C:\\Users\\LOGIC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
