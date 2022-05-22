@@ -29,8 +29,8 @@ namespace SpectatorTickets
             {
                 _player.HintDisplay.Show(
                     new TextHint(
-                        $"\n\n\n\n\n\n\n\n\n\n\n\n\n\n<align=right><color=blue>MTF Tickets:</color> {Respawning.RespawnTickets.Singleton.GetAvailableTickets(Respawning.SpawnableTeamType.NineTailedFox)}</align>" +
-                        $"\n<align=right><color=green>Chaos Tickets:</color> {Respawning.RespawnTickets.Singleton.GetAvailableTickets(Respawning.SpawnableTeamType.ChaosInsurgency)}</align>",
+                        $"\n\n\n\n\n\n\n\n\n\n\n\n\n\n<align=right><color=blue>九尾狐特遣队:</color> {Respawning.RespawnTickets.Singleton.GetAvailableTickets(Respawning.SpawnableTeamType.NineTailedFox)}</align>" +
+                        $"\n<align=right><color=green>混沌分裂者:</color> {Respawning.RespawnTickets.Singleton.GetAvailableTickets(Respawning.SpawnableTeamType.ChaosInsurgency)}</align>",
                         new HintParameter[]
                         {
                             new StringHintParameter("")
